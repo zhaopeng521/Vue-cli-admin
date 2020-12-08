@@ -1,0 +1,10 @@
+:export {
+  menuText: #333;
+  menuActiveText: #ED6D00;
+  subMenuActiveText: #333;
+  menuBg: #f7f7f7;
+  menuHover: #fff;
+  subMenuBg: #fafafa;
+  subMenuHover: #cccccc;
+  sideBarWidth: 210px;
+}
